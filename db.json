@@ -1,0 +1,84 @@
+{
+  "cities": [
+    {
+      "cityName": "Boalmari",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2024-10-26T04:53:34.170Z",
+      "notes": "This is a note about Boalmari",
+      "position": {
+        "lat": "23.36242859340884",
+        "lng": "89.747314453125"
+      },
+      "id": "1"
+    },
+    {
+      "cityName": "New York",
+      "country": "United States",
+      "emoji": "🇺🇸",
+      "date": "2024-10-26T05:00:00.000Z",
+      "notes": "This is a note about New York",
+      "position": {
+        "lat": "40.712776",
+        "lng": "-74.005974"
+      },
+      "id": "2"
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2024-10-26T05:10:00.000Z",
+      "notes": "This is a note about Tokyo",
+      "position": {
+        "lat": "35.689487",
+        "lng": "139.691711"
+      },
+      "id": "3"
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-26T05:20:00.000Z",
+      "notes": "This is a note about Paris",
+      "position": {
+        "lat": "48.856613",
+        "lng": "2.352222"
+      },
+      "id": "4"
+    },
+    {
+      "cityName": "Sydney",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-10-26T05:30:00.000Z",
+      "notes": "This is a note about Sydney",
+      "position": {
+        "lat": "-33.86882",
+        "lng": "151.20929"
+      },
+      "id": "5"
+    },
+    {
+      "cityName": "Cape Town",
+      "country": "South Africa",
+      "emoji": "🇿🇦",
+      "date": "2024-10-26T05:40:00.000Z",
+      "notes": "This is a note about Cape Town",
+      "position": {
+        "lat": "-33.92487",
+        "lng": "18.424055"
+      },
+      "id": "6"
+    }
+  ],
+  "users": [
+    {
+      "name": "Deepak Barkhane",
+      "email": "deepakbarkhane1610@gmail.com",
+      "password": "Password123",
+      "id": 1
+    }
+  ]
+}
